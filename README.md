@@ -1,6 +1,6 @@
 # Splitzy
 
-A Gen Z styled expense splitter for friend groups. Add your squad, log receipts, and see who pays who. Built with Python, `decimal` and CustomTkinter.
+A simple expense splitter for friend groups. Add your squad, log receipts, and see who pays who. Built with Python, `decimal` and CustomTkinter.
 
 ## Features
 
@@ -71,3 +71,4 @@ pytest
 ## License
 
 MIT
+
